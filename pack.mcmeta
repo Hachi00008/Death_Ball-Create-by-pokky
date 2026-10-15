@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": [
+            {
+                "text": "Death Ball",
+                "color": "red"
+            }
+        ],
+        "max_format": [121,0],
+        "min_format": [97,1]
+    }
+}
